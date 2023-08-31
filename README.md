@@ -1,2 +1,2 @@
 # Project_List
-This File Contains IPL data entered in list order
+This project contains a file in which IPL datas are entered in list
